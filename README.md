@@ -23,7 +23,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/itsrutuja123/Wanderlust.git
+git clone https://github.com/itsrutuja123/Wanderlust.git
 2.Navigate to the project directory
 3.Install the required dependencies
 4.Run the development server
